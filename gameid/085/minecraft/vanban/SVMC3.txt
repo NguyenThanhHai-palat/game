@@ -5,20 +5,27 @@ VB:SVMC#03
                                                   Biên Hoà, ngày 5 tháng 8 năm 2023
 
                         QUYẾT ĐỊNH NÂNG CẤP PHIÊN BẢN MÁY CHỦ
-                             LÊN 1.20 VÀ ĐỔI TÊN MÁY CHỦ
+                         VÀ THAY ĐỔI LOGO/TÊN/ĐỐI TƯỢNG CHƠI
 
-        Vì đã biết cách mở port máy chủ nên Hải và Tuấn quyết định thành lập máy chủ
-        Minecraft cho lớp 9A3 với IP:play.mc.9a3thsp.cf và mc.palat.cf , phiên bản
-        sử dụng là 1.18, sau ngày 1/2/2023 sẽ lên 1.19, đồng thời hỗ trợ nghiên cứu
-        cho hoạt động Server trên cả nền tản Bedrock/Pocket và Java Edition của Minecraft.
-        Server sẽ hoạt động chính thức vào ngày 11/1/2023 với quản trị viên Hải và Tuấn
-        trên máy laptop sử dụng 4GB Ram và I3 3450.Để tham gia thành viên sẽ đăng ký trên
-        web: mc.9a3thsp.cf để xét duyệt tham gia máy chủ.
-        Máy chủ chính thức hoạt động sau khi quyết định được kí.
+   I.QUYẾT ĐỊNH NÂNG CẤP PHIÊN BẢN MÁY CHỦ.
+   -Dựa vào quyết định của phó thành viên thành lập máy chủ (iamagoodgirl) nâng cấp phiên 
+   bản máy chủ, thì đã tổng hợp ý kiến thành viên máy chủ để nâng cấp kết quả được (6/11)
+   thành viên đồng ý.
+   -Để server vận hành tốt khi đưa vào hoạt động ở phiên bản 1.20 (Bedrock/Java) thì sẽ có 
+   một máy chủ riêng sẽ đưa vào thử nghiệm trong 12h liên tục vào ngày 12/8,
+   địa chỉ máy chủ: play120.mc.palat001.cf (phiên bản 1.20 cả Bedrock và Java).
+   -Server sẽ đưa vào vận hành chính thức phiên bản 1.20 vào ngày 14/8 nếu vận 
+   hành thử nghiệm thành công.
 
+   II.QUYẾT ĐỊNH THAY ĐỔI LOGO/TÊN/ĐỐI TƯỢNG CHƠI.
+   1.Thay đổi logo cũ sang logo mới biểu tượng của máy chủ "bánh răng,lúa,búa,biển,mặt 
+   trời
+   
         -Nơi nhận
          WEB:(mc.9a3thsp.cf)_LT
          VĂN PHÒNG MÁY CHỦ (Trong Game)
-                                                             KÝ TÊN QUYẾT ĐỊNH THÀNH LẬP
-                                                                  [NG.TH.HAI - BMP]
-                                                                   NGUYỄN THANH HẢI
+         Group ZALO 
+                                                             KÝ TÊN QUYẾT ĐỊNH CỦA CT
+                                                             TỔNG CỤC ĐẾ CHẾ HẢI LONG
+                                                               [NG.TH.HAI - BMP]
+                                                                NGUYỄN THANH HẢI
