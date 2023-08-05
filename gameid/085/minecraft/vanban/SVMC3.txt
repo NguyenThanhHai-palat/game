@@ -19,13 +19,22 @@ VB:SVMC#03
 
    II.QUYẾT ĐỊNH THAY ĐỔI LOGO/TÊN/ĐỐI TƯỢNG CHƠI.
    1.Thay đổi logo cũ sang logo mới biểu tượng của máy chủ "bánh răng,lúa,búa,biển,mặt 
-   trời
+   trời" tượng trưng cho hướng biển và khu công nghiệp Biên Hoà. (logo.png)
+   2.Thay đổi tên máy chủ từ:9A3SERVERMC sang PLTMC.
+   3.Thay đổi đối tượng người chơi từ thành viên lớp 9A3THSP sang mọi người chơi trên 9
+   tuổi (nếu dưới 9 tuổi cần người giới thiệu và giám hộ chịu trách nhiệm trên 12 tuổi 
+   hoặc chịu sự giám sát của ban quản lý máy chủ)
+
+
+   Làm vậy để phòng tránh những hành động thiếu ý thức của thành viên nhỏ tuổi.
    
         -Nơi nhận
          WEB:(mc.9a3thsp.cf)_LT
          VĂN PHÒNG MÁY CHỦ (Trong Game)
          Group ZALO 
-                                                             KÝ TÊN QUYẾT ĐỊNH CỦA CT
+                                                                     KÝ TÊN 
+                                                                QUYẾT ĐỊNH CỦA CT
                                                              TỔNG CỤC ĐẾ CHẾ HẢI LONG
+                                                               BAN QUẢN LÝ MÁY CHỦ
                                                                [NG.TH.HAI - BMP]
                                                                 NGUYỄN THANH HẢI
